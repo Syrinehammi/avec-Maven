@@ -10,7 +10,7 @@ import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
 /**
- * @author Walid-YAICH
+ * @author syrine hammi
  * 
  * URL utiles :
  * http://theoryapp.com/parse-json-in-java/
